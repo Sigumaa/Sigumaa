@@ -1,6 +1,6 @@
 # Sigumaa
-
-試験期間は草が生えない
+電気電子系<br>
+情報系高専生では無い
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sigumaa&count_private=true&show_icons=true&theme=gotham" />
