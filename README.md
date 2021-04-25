@@ -1,8 +1,6 @@
 # Sigumaa
-ウンコーダー<br><br><br>
-電気電子系<br>
-情報系高専生では無い
 
+Public Repositoryを消したら、Most Used Languagesが消えた。<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sigumaa&count_private=true&show_icons=true&theme=gotham" />
 </a>
