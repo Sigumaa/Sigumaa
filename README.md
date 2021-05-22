@@ -1,5 +1,5 @@
-空虚<br>
-
+空虚<br><br>
+できるだけ毎日草を生やします(試験期間を除く)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sigumaa&count_private=true&show_icons=true&theme=gotham" />
