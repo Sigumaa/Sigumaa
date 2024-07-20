@@ -1,4 +1,7 @@
-me
+## ⚠️ **Unauthorized use, reproduction, or distribution of artwork is strictly prohibited.** ⚠️
+
+
+
 
 ![shiyui-chan](shiyui-chan.jpg)
 
