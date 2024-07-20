@@ -1,6 +1,6 @@
 
     
-<h3> <b> These days, I've been coding only for work, no personal projects... </b> </h3>
+<h3> These days, I've been coding only for work, no personal projects... </h3>
 
 ---
 
