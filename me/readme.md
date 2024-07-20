@@ -1,24 +1,25 @@
 ## ⚠️ **Unauthorized use, reproduction, or distribution of artwork is strictly prohibited.** ⚠️
 
 
+<div align="center">
 
-
-![shiyui-chan](shiyui-chan.jpg)
-
----
-
-![shiyui-chan](shiyui-chan2.jpeg)
+<img src="shiyui-chan.jpg" style="width: 500px; height: auto;">
 
 ---
 
-![shiyui-chan](shiyui-nebou.jpeg)
+<img src="shiyui-chan2.jpeg" style="width: 500px; height: auto;">
 
 ---
 
-![shiyui-chan](shiyui-yandere.jpg)
+<img src="shiyui-nebou.jpeg" style="width: 500px; height: auto;">
 
 ---
-左がshiyui chanです
-![shiyui-chan](shiyui-left.jpg)
+
+<img src="shiyui-yandere.jpg" style="width: 500px; height: auto;">
 
 ---
+</div>左がshiyui chanです  <div align="center">
+<img src="shiyui-left.jpg" style="width: 500px; height: auto;">
+
+---
+</div>
