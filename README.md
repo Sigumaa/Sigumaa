@@ -1,9 +1,4 @@
 
-    
-<h3> These days, I've been coding only for work, no personal projects... </h3>
-
----
-
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigumaa&count_private=true&layout=compact&show_icons=true&theme=tokyonight&langs_count=6&hide=CMake,HTML,Dart,Swift,MDX,CSS,)
 
