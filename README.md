@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/d8abb43a-67d5-4260-aab4-ace7c1e6f3b5" alt="image" width="50%" />
-
-
+### Experience  
+Backend engineer mainly working with Go, TypeScript, Python, Java, and Shell Script.  
+Particularly fond of Go, involved in API development, operations, and CI/CD improvements.  
 
 ## Now Playing...
 
