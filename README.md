@@ -10,7 +10,7 @@ In my free time, I enjoy building various utility tools to enhance productivity,
 
 
 ## Hobbies
-I enjoy reading, watching movies, and listening to music. I’m particularly passionate about club music, especially genres like UK Garage, UK Hardcore, UK Bass, and Drum & Bass (DnB). I’m always open to exploring new sounds and experiences. I keep track of my music listening habits on [Last.fm](https://www.last.fm/ja/user/shiyui), where I log my favorite tracks and discover new artists.
+I enjoy reading, watching movies, and listening to music. I’m particularly passionate about club music, especially genres like UK Garage, UK Hardcore, UK Bass, Rhythm & Blues (R&B), and Drum & Bass (DnB). I’m always open to exploring new sounds and experiences. I keep track of my music listening habits on [Last.fm](https://www.last.fm/ja/user/shiyui), where I log my favorite tracks and discover new artists.
 
 As for movies, I’m a fan of works by Christopher Nolan and enjoy films that challenge conventional storytelling.
 
