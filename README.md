@@ -1,9 +1,9 @@
 ## Experience  
-Backend engineer working primarily with Go, TypeScript, Python, Java, and Shell Script.
-Particularly passionate about Go, focusing on API development, system operations, and CI/CD improvements.  
+Backend engineer working primarily with Go, TypeScript, Python, Java, and Shell Script.  
+Particularly passionate about Go, focusing on API development, system operations, and CI/CD improvements.    
 
-Previously a student and a freelance developer working under a sole proprietorship contract.
-Now, I have joined a traditional Japanese company (JTC) as an IT Engineer while continuing my contract-based development as a side job.  
+Previously a student and a freelance developer working under a sole proprietorship contract.  
+Now, I have joined a traditional Japanese company (JTC) as an IT Engineer while continuing my contract-based development as a side job.    
 
 In my free time, I enjoy building various utility tools to enhance productivity, especially in Go.
 
