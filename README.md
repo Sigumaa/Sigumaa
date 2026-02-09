@@ -1,15 +1,8 @@
-## Experience  
-Backend engineer working primarily with Go, TypeScript, Python, Java, and Shell Script.  
-Particularly passionate about Go, focusing on API development, system operations, and CI/CD improvements.    
+Software engineer at a JTC. Building internal AI platforms.
+Former student & freelance dev — now corporate IT with contract work on the side.
 
-Previously a student and a freelance developer working under a sole proprietorship contract.  
-Now, I have joined a traditional Japanese company (JTC) as an IT Engineer while continuing my contract-based development as a side job.    
-
-In my free time, I enjoy building various utility tools to enhance productivity, especially in Go.
+Azure, Google Cloud, Python, TypeScript.
+From platform dev to system ops and user support.
 
 
-
-## Hobbies
-I enjoy reading, watching movies, and listening to music. I’m particularly passionate about club music, especially genres like UK Garage, UK Hardcore, UK Bass, Rhythm & Blues (R&B), and Drum & Bass (DnB). I’m always open to exploring new sounds and experiences. I keep track of my music listening habits on [Last.fm](https://www.last.fm/ja/user/shiyui), where I log my favorite tracks and discover new artists.
-
-As for movies, I’m a fan of works by Christopher Nolan and enjoy films that challenge conventional storytelling.
+Music (UKG / UK Hardcore / UK Bass / R&B / DnB) · [Last.fm](https://www.last.fm/ja/user/shiyui) · Film · Walking
