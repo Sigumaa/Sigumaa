@@ -1,4 +1,4 @@
-Software engineer at a JTC. Building internal AI platforms.
+Software engineer at a JTC(basically a super traditional Japanese company where everyone's a salaryman for life). Building internal AI platforms.
 Former student & freelance dev — now corporate IT with contract work on the side.
 
 Azure, Google Cloud, Python, TypeScript.
